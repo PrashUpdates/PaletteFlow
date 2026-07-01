@@ -14,7 +14,6 @@ Generate beautiful matching color palettes instantly and copy HEX codes with a s
  <img src="https://img.shields.io/badge/Responsive-Yes-22C55E?style=for-the-badge">
 </p>
 
----
 
 
 ## ✨ Features
@@ -26,6 +25,5 @@ Generate beautiful matching color palettes instantly and copy HEX codes with a s
 - Modern UI
 - Fast & Lightweight
 
----
 
 ### ⭐ If you like this project, don't forget to **Star** the repository!
