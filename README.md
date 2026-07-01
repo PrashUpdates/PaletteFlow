@@ -10,7 +10,7 @@ Generate beautiful matching color palettes instantly and copy HEX codes with a s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
 </p>
-<p>
+<p align="center">
  <img src="https://img.shields.io/badge/Responsive-Yes-22C55E?style=for-the-badge">
 </p>
 
